@@ -1,0 +1,6 @@
+Halo Saya Candra Yusuf Irawan dari Kampus Unbor Jakarta
+
+//Rsolusi saya
+1. Membuat Website Menggunakan framework Bootstrap versi terbaru
+2. Manambahkan animasi page scroll
+3. Saya ingin bekerja di Perusahaan
